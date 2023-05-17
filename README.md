@@ -15,7 +15,7 @@ Infraestrutura:
 
 - X Subir o Airbyte via docker X
 
-(parei em +- 1h de vídeo)
+(parei em +- 00:55h de vídeo)
 
 - Subir o Airflow via docker X
 
