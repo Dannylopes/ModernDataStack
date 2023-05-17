@@ -6,3 +6,4 @@ Repositório utilizado no Treinamento 'Modern Data Stack' da Stack Academy.
 
 1. Subir o Airbyte
 2. Subir o Airflow
+3. 
