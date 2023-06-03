@@ -67,7 +67,6 @@ Transformação:
     - Commits, Branches, Pull Requests, Merges no Github  X
     - Obtenção do link de conexão com o Airbyte  X
 
-
 Visualização:
 
 - No Metabase:
