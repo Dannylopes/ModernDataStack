@@ -41,7 +41,7 @@ Extração:
     - Criar as conexões do airbyte associando as origens ao destino X
     - Testar as conexões X
 
-
+# parei na aula 2 com +- 10 minutos
 Preparação:
 
 - No Airbyte (Destination Loading Method):
