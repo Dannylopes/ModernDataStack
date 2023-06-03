@@ -42,6 +42,9 @@ Extração:
     - Testar as conexões X
 
 # parei na aula 2 com +- 10 minutos
+    - Snowflake
+        user: AIRBYTE_USER  (mão tenho certeza)
+        pass: airbyte_password
 Preparação:
 
 - No Airbyte (Destination Loading Method):
