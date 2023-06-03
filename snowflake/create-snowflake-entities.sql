@@ -10,6 +10,7 @@
 
  begin;
 
+-- Teste de alteração git
  -- create Airbyte role
  use role securityadmin;
  create role if not exists identifier($airbyte_role);
