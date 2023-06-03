@@ -1,4 +1,4 @@
-# ModernDataStackMaoe
+# ModernDataStack
 Repositório utilizado no Treinamento 'Modern Data Stack' da Stack Academy.
 
 # airbyte-dbt-airflow-snowflake-metabase
