@@ -40,6 +40,7 @@ Extração:
     - Conectar o destino no snowflake X
     - Criar as conexões do airbyte associando as origens ao destino X
     - Testar as conexões X
+    - CSVs do Google: https://health.google.com/covid-19/open-data/raw-data
 
 # parei na aula 2 com +- 10 minutos
    
